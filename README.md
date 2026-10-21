@@ -70,6 +70,19 @@ Data based on the Superstore dataset, consisting of four related tables:
 
 ![Functions change](./Functions%20change%20Tableu.png)
 
+## 🎨 Color Palette & Contrast
+
+The dashboard uses a **complementary color contrast**: **blue** vs **orange**. These two hues sit opposite each other on the color wheel, so good and poor results are distinguishable at a glance.
+
+| Color | Meaning |
+|-------|---------|
+| 🔵 Blue | Above average, profit, highest month |
+| 🟠 Orange | Below average, loss, lowest month |
+
+**Update:** I adjusted one color that was inconsistent with the chosen palette. All elements now share the same scheme: KPI cards, the Sales & Profit by Subcategory chart, the Trends over Time charts, and the legends. This makes the dashboard more readable and visually consistent, and it helps users tell positive from negative results faster.
+
+> Screenshots in this repository have been updated to reflect the revised dashboard.
+
 ## 🛠️ Tools & Technologies
 
 - Tableau Desktop / Tableau Public
