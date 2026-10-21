@@ -46,7 +46,7 @@ Data based on the Superstore dataset, consisting of four related tables:
     - CY Sales – current year sales bars (scale: $1K–$35K)
     - KPI Profit Avg – reference line showing average profit threshold
       
- ![Sales Dashboard](./Sales%20Dashboard%20Tableu.png)
+ ![Sales Dashboard](Sales%20Dashboard.png)
 
 ### 2. Customer Dashboard *(own extension – beyond course scope)*
 - **KPI Cards** – Total Customers, Avg Sales per Customer, New Customers
@@ -58,7 +58,7 @@ Data based on the Superstore dataset, consisting of four related tables:
 - **Customer Distribution by Region** – interactive US map showing
   customer count per state, with the top state highlighted
 
-![Customers Dashboard](./Customers%20Dashboard%20Tableu.png)
+![Customers Dashboard](Customer%20Dashboard.png)
 
 ## 🧮 Calculated Fields (selected)
 
@@ -68,7 +68,7 @@ Data based on the Superstore dataset, consisting of four related tables:
 - Min/Max Sales, Min/Max Profit, Min/Max Quantity – highlighting extreme
   months
 
-![Functions change](./Functions%20change%20Tableu.png)
+![Functions change](Functions%20change.png)
 
 ## 🎨 Color Palette & Contrast
 
