@@ -82,11 +82,18 @@ The dashboard uses a **complementary color contrast**: **blue** vs **orange**. T
 **Update:** I adjusted one color that was inconsistent with the chosen palette. All elements now share the same scheme: KPI cards, the Sales & Profit by Subcategory chart, the Trends over Time charts, and the legends. This makes the dashboard more readable and visually consistent, and it helps users tell positive from negative results faster.
 
 > Screenshots in this repository have been updated to reflect the revised dashboard.
+> 💡 For the best experience, open the dashboard on Tableau Public and use the filters (e.g. year selection) to explore the data interactively.
 
 ## 🛠️ Tools & Technologies
 
 - Tableau Desktop / Tableau Public
 - Raw data in .csv format
+
+## 🔗 Live Dashboard
+
+Explore the interactive version on Tableau Public:
+
+👉 [Sales & Customers Dashboard – Tableau Public](https://public.tableau.com/app/profile/simona.bartocha/viz/SalesandCustomersDashboard_TableauProject/SalesDashboard)
 
 ## 🎓 Course
 
